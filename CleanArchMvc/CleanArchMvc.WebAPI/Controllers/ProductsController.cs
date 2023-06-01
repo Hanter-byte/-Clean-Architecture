@@ -26,7 +26,7 @@ namespace CleanArchMvc.WebAPI.Controllers
             }
             return Ok(category);
         }
-        [HttpGet("{id:int}", Name = "GetProductId")]
+        [HttpGet("{id:int}", Name = "GetProduct")]
         public async Task<ActionResult<ProductDTO>> Get(int id)
         {
             var product = await _productService.GetById(id);
@@ -37,14 +37,40 @@ namespace CleanArchMvc.WebAPI.Controllers
             return Ok(product);
         }
         [HttpPost]
-        public async Task<ActionResult> Post([FromBody] ProductDTO product)
+        public async Task<ActionResult> Post([FromBody] ProductDTO produtoDto)
         {
+            if (produtoDto == null)
+                return BadRequest("Data Invalid");
+
+            await _productService.Add(produtoDto);
+
+            return new CreatedAtRouteResult("GetProduct",
+                new { id = produtoDto.Id }, produtoDto);
+        }
+        [HttpPut]
+        public async Task<ActionResult> Put(int id, [FromBody] ProductDTO product)
+        {
+            if (id != product.Id)
+            {
+                return BadRequest();
+            }
             if (product == null)
             {
-                return BadRequest("Invalid Data");
+                return BadRequest();
             }
-            await _productService.Add(product);
-            return new CreatedAtRouteResult("GetProductId", new { id = product.Id }, product); //Retorna 201
+            await _productService.Update(product);
+            return Ok(product);
+        }
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult<ProductDTO>> Detele(int id)
+        {
+            var product = await _productService.GetById(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            await _productService.Remove(id);
+            return Ok(product);
         }
     }
 }
