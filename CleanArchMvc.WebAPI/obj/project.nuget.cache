@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0cHLvIbRniqo/SU0hJkmrdqyU9WYHdmkOXNmLh/aLo2DR5O01tVZDvmhgO62rIvYBvvymWWUXbmoTIq66DUz3Q==",
+  "dgSpecHash": "HExJ2b+cajYU2MGb211FFnLYrhXe1BByWmYxgWENAHnhhm4JDogdrB5zE65riMQ2inpbv5ec50k9s6sVzd459A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.WebAPI\\CleanArchMvc.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.WebAPI\\CleanArchMvc.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joao.psilva\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\joao.psilva\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

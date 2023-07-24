@@ -3823,11 +3823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.WebAPI\\CleanArchMvc.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.WebAPI\\CleanArchMvc.WebAPI.csproj",
       "projectName": "CleanArchMvc.WebAPI",
-      "projectPath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.WebAPI\\CleanArchMvc.WebAPI.csproj",
+      "projectPath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.WebAPI\\CleanArchMvc.WebAPI.csproj",
       "packagesPath": "C:\\Users\\joao.psilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joao.psilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3844,8 +3844,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
-              "projectPath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
+            "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
             }
           }
         }

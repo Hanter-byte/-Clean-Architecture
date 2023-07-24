@@ -35,6 +35,5 @@ namespace CleanArchMvc.Domain.Entities
             Cpf = cpf;
             Telefone = telefone;
         }
-
     }
 }

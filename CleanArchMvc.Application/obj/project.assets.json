@@ -142,11 +142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+      "projectUniqueName": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
       "projectName": "CleanArchMvc.Application",
-      "projectPath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+      "projectPath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
       "packagesPath": "C:\\Users\\joao.psilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
+      "outputPath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joao.psilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -163,8 +163,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             }
           }
         }

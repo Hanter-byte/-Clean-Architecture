@@ -10,3 +10,15 @@ C:\Users\joao.psilva\Desktop\Clean\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\ne
 C:\Users\joao.psilva\Desktop\Clean\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\refint\CleanArchMvc.Domain.dll
 C:\Users\joao.psilva\Desktop\Clean\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
 C:\Users\joao.psilva\Desktop\Clean\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.deps.json
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.dll
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\refint\CleanArchMvc.Domain.dll
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Users\joao.psilva\Desktop\Clean-Architecture\CleanArchMvc.Domain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll

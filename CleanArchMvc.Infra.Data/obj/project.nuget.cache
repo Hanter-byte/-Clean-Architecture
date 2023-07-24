@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9rR88STkvzpPOy3XtjoLWgXKBzS2X3DpG5ofmV61kFfSETav2Xnw40w4F5aRwv0il+Gn7HMCGvCbHKZE18r4qg==",
+  "dgSpecHash": "i12pYYJ6Oxy0IVgJNBtw7Zxu14sha2g3eZH/qFzci9VHZ1KuDHukh9Hk/wvt850dKOAnyoWTk6YAnoON4hcTKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joao.psilva\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\joao.psilva\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

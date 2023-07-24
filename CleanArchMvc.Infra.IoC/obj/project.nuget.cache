@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jHpj/TUbUbxoJkm6ANILgoemYKh2LFqJmL4J+o/hsgUDX6XxFG+vjXHGJLkcvrMNLl4QCinzhrIC6mkoxWEBdg==",
+  "dgSpecHash": "5ItqZRJj/h6KDYaNtF63WhtmodYijfw7gd+F2oDb4CwBBfOLlehXeoD+d1DC4RDx+SD/DP4mUWj8vCiAeT4Xbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joao.psilva\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\joao.psilva\\Desktop\\Clean-Architecture\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joao.psilva\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\joao.psilva\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
